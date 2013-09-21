@@ -1,0 +1,138 @@
+[submodule "backbone.geppetto"]
+	path = backbone.geppetto
+	url = git@github.com:ModelN/backbone.geppetto.git
+[submodule "parallel.js"]
+	path = parallel.js
+	url = https://github.com/adambom/parallel.js
+[submodule "backbone.marionette"]
+	path = backbone.marionette
+	url = https://github.com/marionettejs/backbone.marionette
+[submodule "javascript-stacktrace"]
+	path = javascript-stacktrace
+	url = git@github.com:eriwen/javascript-stacktrace.git
+[submodule "lodash"]
+	path = lodash
+	url = git@github.com:lodash/lodash.git
+[submodule "jquery_viewport"]
+	path = jquery_viewport
+	url = git@github.com:tuupola/jquery_viewport.git
+[submodule "bignumber.js"]
+	path = bignumber.js
+	url = git@github.com:MikeMcl/bignumber.js.git
+[submodule "polymer"]
+	path = polymer
+	url = git@github.com:Polymer/polymer.git
+[submodule "history.js"]
+	path = history.js
+	url = git@github.com:browserstate/history.js.git
+[submodule "polychart2"]
+	path = polychart2
+	url = git@github.com:Polychart/polychart2.git
+[submodule "bootstrap-wysiwyg"]
+	path = bootstrap-wysiwyg
+	url = git@github.com:mindmup/bootstrap-wysiwyg.git
+[submodule "heatmap.js"]
+	path = heatmap.js
+	url = git@github.com:pa7/heatmap.js.git
+[submodule "markdown-js"]
+	path = markdown-js
+	url = git@github.com:evilstreak/markdown-js.git
+[submodule "FuturesJS"]
+	path = FuturesJS
+	url = git@github.com:FuturesJS/FuturesJS.git
+[submodule "mantri"]
+	path = mantri
+	url = git@github.com:closureplease/mantri.git
+[submodule "pixi.js"]
+	path = pixi.js
+	url = git@github.com:GoodBoyDigital/pixi.js.git
+[submodule "jQuery-menu-aim"]
+	path = jQuery-menu-aim
+	url = git@github.com:kamens/jQuery-menu-aim.git
+[submodule "angular-strap"]
+	path = angular-strap
+	url = git@github.com:mgcrea/angular-strap.git
+[submodule "bootup.js"]
+	path = bootup.js
+	url = git@github.com:TradeMe/bootup.js.git
+[submodule "mousetrap"]
+	path = mousetrap
+	url = git@github.com:ccampbell/mousetrap.git
+[submodule "alertify.js"]
+	path = alertify.js
+	url = git@github.com:fabien-d/alertify.js.git
+[submodule "js-feature-matrix"]
+	path = js-feature-matrix
+	url = git@github.com:rauschma/js-feature-matrix.git
+[submodule "ShopifyCartJS"]
+	path = ShopifyCartJS
+	url = git@github.com:Willet/ShopifyCartJS.git
+[submodule "jquery.sparkline"]
+	path = jquery.sparkline
+	url = git@github.com:gwatts/jquery.sparkline.git
+[submodule "locache"]
+	path = locache
+	url = git@github.com:d0ugal/locache.git
+[submodule "skrollr"]
+	path = skrollr
+	url = git@github.com:Prinzhorn/skrollr.git
+[submodule "select2"]
+	path = select2
+	url = git@github.com:ivaynberg/select2.git
+[submodule "xregexp"]
+	path = xregexp
+	url = git@github.com:slevithan/xregexp.git
+[submodule "appframework"]
+	path = appframework
+	url = git@github.com:01org/appframework.git
+[submodule "jquery-ui-bootstrap"]
+	path = jquery-ui-bootstrap
+	url = git@github.com:addyosmani/jquery-ui-bootstrap.git
+[submodule "jquip"]
+	path = jquip
+	url = git@github.com:mythz/jquip.git
+[submodule "uikit"]
+	path = uikit
+	url = git@github.com:visionmedia/uikit.git
+[submodule "keymaster"]
+	path = keymaster
+	url = git@github.com:madrobby/keymaster.git
+[submodule "cssbeautify"]
+	path = cssbeautify
+	url = git@github.com:senchalabs/cssbeautify.git
+[submodule "wysihtml5"]
+	path = wysihtml5
+	url = git@github.com:xing/wysihtml5.git
+[submodule "Skeleton"]
+	path = Skeleton
+	url = git@github.com:dhg/Skeleton.git
+[submodule "qwery"]
+	path = qwery
+	url = git@github.com:ded/qwery.git
+[submodule "load.js"]
+	path = load.js
+	url = git@github.com:chriso/load.js.git
+[submodule "Universal-CSS-Transforms"]
+	path = Universal-CSS-Transforms
+	url = git@github.com:gpetrov/Universal-CSS-Transforms.git
+[submodule "headjs"]
+	path = headjs
+	url = git@github.com:headjs/headjs.git
+[submodule "webfontloader"]
+	path = webfontloader
+	url = git@github.com:typekit/webfontloader.git
+[submodule "less.js"]
+	path = less.js
+	url = git@github.com:less/less.js.git
+[submodule "sammy"]
+	path = sammy
+	url = git@github.com:quirkey/sammy.git
+[submodule "pure"]
+	path = pure
+	url = git@github.com:pure/pure.git
+[submodule "lazyload"]
+	path = lazyload
+	url = git@github.com:rgrove/lazyload.git
+[submodule "sylvester"]
+	path = sylvester
+	url = git@github.com:jcoglan/sylvester.git
